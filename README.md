@@ -15,6 +15,6 @@ Essa **tarefa foi** importante para a prática da utilização do Github.
 Nessa seção foram praticados alguns comandos javascript pelo node.
 
 
-`RGB(0,255,0)` teste
+`TESTE RGB(0,255,0)`
 
 Documentação da tarefa se encontra [Aqui](https://github.com/ituring-repo/aprenda-a-programar/tree/main/tarefa-dia-2).
